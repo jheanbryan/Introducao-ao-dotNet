@@ -1,0 +1,15 @@
+C:\Users\jhean\OneDrive\Documentos\github_projetos\calculadora\Introducao-ao-dotNet\primeiro-exemplo\bin\Debug\net8.0\primeiro-exemplo.exe
+C:\Users\jhean\OneDrive\Documentos\github_projetos\calculadora\Introducao-ao-dotNet\primeiro-exemplo\bin\Debug\net8.0\primeiro-exemplo.deps.json
+C:\Users\jhean\OneDrive\Documentos\github_projetos\calculadora\Introducao-ao-dotNet\primeiro-exemplo\bin\Debug\net8.0\primeiro-exemplo.runtimeconfig.json
+C:\Users\jhean\OneDrive\Documentos\github_projetos\calculadora\Introducao-ao-dotNet\primeiro-exemplo\bin\Debug\net8.0\primeiro-exemplo.dll
+C:\Users\jhean\OneDrive\Documentos\github_projetos\calculadora\Introducao-ao-dotNet\primeiro-exemplo\bin\Debug\net8.0\primeiro-exemplo.pdb
+C:\Users\jhean\OneDrive\Documentos\github_projetos\calculadora\Introducao-ao-dotNet\primeiro-exemplo\obj\Debug\net8.0\primeiro-exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhean\OneDrive\Documentos\github_projetos\calculadora\Introducao-ao-dotNet\primeiro-exemplo\obj\Debug\net8.0\primeiro-exemplo.AssemblyInfoInputs.cache
+C:\Users\jhean\OneDrive\Documentos\github_projetos\calculadora\Introducao-ao-dotNet\primeiro-exemplo\obj\Debug\net8.0\primeiro-exemplo.AssemblyInfo.cs
+C:\Users\jhean\OneDrive\Documentos\github_projetos\calculadora\Introducao-ao-dotNet\primeiro-exemplo\obj\Debug\net8.0\primeiro-exemplo.csproj.CoreCompileInputs.cache
+C:\Users\jhean\OneDrive\Documentos\github_projetos\calculadora\Introducao-ao-dotNet\primeiro-exemplo\obj\Debug\net8.0\primeiro-exemplo.sourcelink.json
+C:\Users\jhean\OneDrive\Documentos\github_projetos\calculadora\Introducao-ao-dotNet\primeiro-exemplo\obj\Debug\net8.0\primeiro-exemplo.dll
+C:\Users\jhean\OneDrive\Documentos\github_projetos\calculadora\Introducao-ao-dotNet\primeiro-exemplo\obj\Debug\net8.0\refint\primeiro-exemplo.dll
+C:\Users\jhean\OneDrive\Documentos\github_projetos\calculadora\Introducao-ao-dotNet\primeiro-exemplo\obj\Debug\net8.0\primeiro-exemplo.pdb
+C:\Users\jhean\OneDrive\Documentos\github_projetos\calculadora\Introducao-ao-dotNet\primeiro-exemplo\obj\Debug\net8.0\primeiro-exemplo.genruntimeconfig.cache
+C:\Users\jhean\OneDrive\Documentos\github_projetos\calculadora\Introducao-ao-dotNet\primeiro-exemplo\obj\Debug\net8.0\ref\primeiro-exemplo.dll
