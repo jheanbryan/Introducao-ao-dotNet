@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace Calculadora.Services
 {
-    public class validacoesString
+    public class ValidacoesString
     {
-        public int contarCaracteres(string texto)
+        public int ContarCaracteres(string texto)
         {
             int numeroCaracteres = texto.Length;
             return numeroCaracteres;
