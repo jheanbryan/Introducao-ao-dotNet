@@ -1,0 +1,15 @@
+C:\Users\jhean\OneDrive\Documentos\github_projetos\projetos\Introducao-ao-dotNet\desafio-hotel\obj\Debug\net6.0\desafio-hotel.csproj.AssemblyReference.cache
+C:\Users\jhean\OneDrive\Documentos\github_projetos\projetos\Introducao-ao-dotNet\desafio-hotel\obj\Debug\net6.0\desafio-hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhean\OneDrive\Documentos\github_projetos\projetos\Introducao-ao-dotNet\desafio-hotel\obj\Debug\net6.0\desafio-hotel.AssemblyInfoInputs.cache
+C:\Users\jhean\OneDrive\Documentos\github_projetos\projetos\Introducao-ao-dotNet\desafio-hotel\obj\Debug\net6.0\desafio-hotel.AssemblyInfo.cs
+C:\Users\jhean\OneDrive\Documentos\github_projetos\projetos\Introducao-ao-dotNet\desafio-hotel\obj\Debug\net6.0\desafio-hotel.csproj.CoreCompileInputs.cache
+C:\Users\jhean\OneDrive\Documentos\github_projetos\projetos\Introducao-ao-dotNet\desafio-hotel\bin\Debug\net6.0\desafio-hotel.exe
+C:\Users\jhean\OneDrive\Documentos\github_projetos\projetos\Introducao-ao-dotNet\desafio-hotel\bin\Debug\net6.0\desafio-hotel.deps.json
+C:\Users\jhean\OneDrive\Documentos\github_projetos\projetos\Introducao-ao-dotNet\desafio-hotel\bin\Debug\net6.0\desafio-hotel.runtimeconfig.json
+C:\Users\jhean\OneDrive\Documentos\github_projetos\projetos\Introducao-ao-dotNet\desafio-hotel\bin\Debug\net6.0\desafio-hotel.dll
+C:\Users\jhean\OneDrive\Documentos\github_projetos\projetos\Introducao-ao-dotNet\desafio-hotel\bin\Debug\net6.0\desafio-hotel.pdb
+C:\Users\jhean\OneDrive\Documentos\github_projetos\projetos\Introducao-ao-dotNet\desafio-hotel\obj\Debug\net6.0\desafio-hotel.dll
+C:\Users\jhean\OneDrive\Documentos\github_projetos\projetos\Introducao-ao-dotNet\desafio-hotel\obj\Debug\net6.0\refint\desafio-hotel.dll
+C:\Users\jhean\OneDrive\Documentos\github_projetos\projetos\Introducao-ao-dotNet\desafio-hotel\obj\Debug\net6.0\desafio-hotel.pdb
+C:\Users\jhean\OneDrive\Documentos\github_projetos\projetos\Introducao-ao-dotNet\desafio-hotel\obj\Debug\net6.0\desafio-hotel.genruntimeconfig.cache
+C:\Users\jhean\OneDrive\Documentos\github_projetos\projetos\Introducao-ao-dotNet\desafio-hotel\obj\Debug\net6.0\ref\desafio-hotel.dll
